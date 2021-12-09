@@ -1,6 +1,6 @@
 # Cairo Cheatsheet
 
-![](/assets/icon.png =50x50)
+<img src="/assets/icon.png" width="50">
 
 ## Arithmetics
 ```python
