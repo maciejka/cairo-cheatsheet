@@ -1,6 +1,6 @@
 # Cairo Cheatsheet
 
-![Cairo](/assets/icon.png)
+![](/assets/icon.png =50x50)
 
 ## Arithmetics
 ```python
