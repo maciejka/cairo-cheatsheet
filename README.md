@@ -1,5 +1,7 @@
 # Cairo Cheatsheet
 
+![Cairo](/assets/icon.png)
+
 ## Arithmetics
 ```python
 from starkware.cairo.common.math import (assert_in_range, assert_le, ...)
