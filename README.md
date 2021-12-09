@@ -1,6 +1,4 @@
-# Cairo Cheatsheet
-
-<img src="/assets/icon.png" width="50">
+# <img src="/assets/icon.png" width="30"> Cairo Cheatsheet
 
 ## Arithmetics
 ```python
